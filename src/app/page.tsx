@@ -163,14 +163,14 @@ export default function Home() {
                   <Linkedin className="w-8 h-8" />
                 </a>
                 <a
-                    href="mailto:contacto@bit.com"
+                    href="mailto:betsabe.valdez@bajioitols.com"
                     className="hover:text-blue-300 transition-colors p-2"
                 >
                   <Mail className="w-8 h-8" />
                 </a>
               </div>
               <div className="mt-8 text-gray-400">
-                <p>Email: contacto@bit.com</p>
+                <p>Email: betsabe.valdez@bajioitols.com</p>
                 <p className="mt-2">© 2024 Bajio Industrial Tools. Todos los derechos reservados.</p>
               </div>
             </div>
